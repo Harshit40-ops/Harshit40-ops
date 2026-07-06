@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075E54,100:25D366&height=180&section=header&text=Harshit%20Sharma&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%C2%B7%20ML%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=54" width="100%" alt="header" />
+
 <div align="center">
 
 <a href="https://harshit3114-satyacheck.hf.space">
@@ -91,4 +93,10 @@ A **deployed multi-modal deepfake & AI-content detector** for WhatsApp forwards 
 
 ![profile views](https://komarev.com/ghpvc/?username=Harshit40-ops&color=25D366&style=flat-square&label=Profile+Views)
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:075E54&height=120&section=footer" width="100%" alt="footer" />
+
+<div align="center">
+<i>⭐ Check out <a href="https://github.com/Harshit40-ops/satyacheck">SatyaCheck</a> · <a href="https://harshit3114-satyacheck.hf.space">try the live demo</a></i>
 </div>
